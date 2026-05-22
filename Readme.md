@@ -81,7 +81,7 @@ Project/
 
 ## Autor
 
-Pablo Gareis
+Juan Carballo
 
 ## Aviso Legal
 
